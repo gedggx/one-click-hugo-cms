@@ -15,8 +15,4 @@ is valuable for us. Please do contact me! Please really do. Really do do. do x 3
 
 You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session
-<<<<<<< HEAD
 with our baristas. Don’t be shy, drop us a line! here's my new line... and yet another line...
-=======
-with our baristas. Don’t be shy, drop us a line! here's my new line...
->>>>>>> origin/master
