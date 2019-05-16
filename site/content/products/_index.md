@@ -1,5 +1,5 @@
 ---
-title: Our Coffee is even Greater again
+title: Our Coffee is even Greater again its ok
 image: /img/products-jumbotron.jpg
 heading: What we offer for our customers
 description: >-
